@@ -15,5 +15,5 @@ FFUF is a powerful tool for discovering hidden directories, subdomains, and para
 
 ## Prerequisites  
 - Basic knowledge of web applications and HTTP  
-- Installed tools: FFUF, Burp Suite (optional), and Juice Shop as a test environment  
+- Installed tools: FFUF, and Juice Shop as a test environment  
 - SecLists wordlist repository for fuzzing  
